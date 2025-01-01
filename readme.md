@@ -26,7 +26,7 @@ Siapkan XAMPP/Laragon terlebih dahulu untuk memulai server PHP dan MySQL.
 Pastikan juga kamu sudah menginstall git sebelum melakukan clone untuk repositori seperti berikut:
 
 ```bash
-git clone https://github.com/joenior/Universitas Indraprasta Tech
+git clone https://github.com/
 ```
 Lalu tempatkan folder Universitas Indraprasta Tech pada folder htdocs jika menggunakan XAMPP, atau folder www jika menggunakan Laragon.
 
@@ -40,14 +40,14 @@ Dark mode
 ![App Screenshot](https://i.ibb.co/HVBpdh2/Universitas Indraprasta Tech-Personal-Microsoft-Edge-Canary-1-b1.png)
 ## 📑 License
 
-[MIT](https://choosealicense.com/licenses/mit/)
+
 
 
 ## 😎 Demo
 
 
 [Preview](https://Universitas Indraprasta Tech.my.id)
-[Hosted by IjulHost]
+[Hosted by Sahril]
 
 ## 🤔 Support
 
